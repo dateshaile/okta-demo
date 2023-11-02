@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+okta:
+  oauth2:
+    issuer: https://dev-09032945.okta.com/oauth2/default
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
